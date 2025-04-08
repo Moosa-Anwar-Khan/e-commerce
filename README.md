@@ -16,7 +16,7 @@ This **E-Commerce App** is a sleek, user-focused shopping platform that emphasiz
 
 ## Tech Stack
 
-- **Frontend:** React Native (assumed, based on Redux-Saga—update if needed)
+- **Frontend:** React Native
 - **State Management:** Redux-Saga  
 - **Database:** Firebase  
 - **Payments:** Stripe (Frontend Integration)
